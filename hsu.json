@@ -20,7 +20,6 @@
 {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
 {"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
-{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/玩偶姐姐.js"},
 {"key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
 {"key":"naixxzy.com","name":"★奶香香(直连)","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0,"ext":"./lib/token.json"}
